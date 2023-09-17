@@ -1,6 +1,5 @@
 def swap_numbers(a, b):
     a,b=b,a
-
     return a, b
 
 # Example
@@ -18,6 +17,6 @@ a, b = swap_numbers(a, b)
 
 
 # Print the result
-print("After Swap")
+print("After Swap ")
 print("a =", a)
 print("b =", b)
