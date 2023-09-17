@@ -1,1 +1,1 @@
-# SolutionsOfTechnicalQuestion
+# Solutions Of Technical Question
