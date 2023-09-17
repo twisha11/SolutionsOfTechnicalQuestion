@@ -1,7 +1,5 @@
 def swap_numbers(a, b):
-    temp = a
-    a = b
-    b = temp
+    a,b=b,a
 
     return a, b
 
